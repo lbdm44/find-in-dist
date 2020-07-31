@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/lbdm44/find-in-dist/issues"
   },
-  "homepage": "https://github.com/lbdm44/find-in-dist#readme"
+  "homepage": "https://github.com/lbdm44/find-in-dist#readme",
+  "dependencies": {
+    "cli-ux": "^5.4.9",
+    "glob": "^7.1.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.5.0"
+  }
 }
